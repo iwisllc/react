@@ -1,0 +1,1 @@
+export const Paragraph = ({ keys, value }) => (<p className="text-xl"><b>{keys} </b>{value}</p>)

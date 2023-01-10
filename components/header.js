@@ -1,0 +1,1 @@
+export const Header = ({ name }) => (<h1 className="py-16 text-4xl md:text-6xl font-bold tracking-tighter leading-tight">{name}</h1>)
